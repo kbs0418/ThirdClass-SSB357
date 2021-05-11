@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+th{
+   font-size: 25px;
+   font-style: italic;
+   text-decoration:cyan;
+   background-color: aqua;
+   text-align-last: center;
+}
+
+tr{
+    background-color: burlywood;
+    text-align-last: center;
+    font-size: 20px;
+}
+
+th:hover{
+
+    font-size: 20px;
+    font-style: normal;
+    background-color: chartreuse;
+
+ 
+}
